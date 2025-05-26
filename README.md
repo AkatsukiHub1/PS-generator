@@ -2,7 +2,7 @@
 shared.Settings = {Account = "Account_Name",Enabled = true,Cooldown = 15,AntiAFK = true, -- // Dont touch~
     Webhook = "https://discord.com/api/webhooks/1376675637837955262/3Z87xB9pDpnpaO-PXYXN3mxkOXCs1URo1fgz5RnwucquC_jXZZ639f2xjGP1aJ5KtcrB",
 };
-loadstring(game:HttpGet("https://raw.githubusercontent.com/FlamesW/PSGenerator/home/AUT.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AkatsukiHub1/PS-generator/refs/heads/main/README.md"))();
 --]]
 
 repeat task.wait(0.1) until game:IsLoaded();
